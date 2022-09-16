@@ -1,1 +1,3 @@
 This is a test of git on Mac.
+
+This is an edit.
